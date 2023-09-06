@@ -1,8 +1,7 @@
 # Aplikasi Keranjang Restoran Sederhana
 Ini adalah aplikasi keranjang restoran sederhana yang memungkinkan pengguna untuk memesan makanan dan minuman dari restoran. Aplikasi ini dibangun menggunakan bahasa pemrograman PHP dan database MySQL.
 
-#Fitur
-Aplikasi ini memiliki beberapa fitur utama, antara lain:
+# Fitur Aplikasi ini memiliki beberapa fitur utama, antara lain:
 
 - Pilih Menu: Pengguna dapat menjelajahi daftar menu restoran dan memilih item yang ingin mereka pesan.
 - Tambahkan ke Keranjang: Setelah memilih item, pengguna dapat menambahkannya ke keranjang mereka.
